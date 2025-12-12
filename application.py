@@ -192,7 +192,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # App title and description
-st.title("💼 Employee Salary Predictor")
+st.title("💼 Salary Predictor")
 st.write("Enter your professional details below .")
 
 # Input form
@@ -362,3 +362,4 @@ st.markdown("""
         <p>© 2025 Employee Salary Predictor|</p>
     </div>
 """, unsafe_allow_html=True)
+
